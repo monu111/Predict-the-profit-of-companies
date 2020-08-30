@@ -4,7 +4,7 @@
 
 - Trained the  Model using the Linear Regresion. then predict the test set.
 - Applied Feature Selection Technique(backward elimination) to find out the best Feature in the  given dataset.
-- then  select the most significant feature in give dataset and trained the model by '__Most Significant__' feature.
+- then  select the most significant feature in give dataset and trained the model using  '__Most Significant__' feature.
 - then predict the test set.
 - finally visualize the data.
 
